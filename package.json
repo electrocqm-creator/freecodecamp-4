@@ -3,6 +3,7 @@
 	"autor": "carlos quiroz",
 	"description": "un proyecto increible",
 	"keywords" : ["freecodecamp", "node", "npm"],
+	"license" : "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
